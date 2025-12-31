@@ -96,4 +96,3 @@ arch = "arm64-v8a"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
-o⁹
