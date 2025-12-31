@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [YouTube]
 enabled = false
-build-mode = "module"
+build-mode = "both"
 excluded-patches = """\
   'Custom branding'\
   """
@@ -20,7 +20,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [Music]
 enabled = false
-build-mode = "module"
+build-mode = "both"
 excluded-patches = """\
   'Custom branding'\
   """
@@ -51,7 +51,7 @@ app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-build-mode = "module"
+build-mode = "both"
 version = "auto"
 arch = "arm64-v8a"
 excluded-patches = """\
@@ -65,7 +65,7 @@ app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
-build-mode = "module"
+build-mode = "both"
 version = "auto"
 arch = "arm64-v8a"
 excluded-patches = """\
